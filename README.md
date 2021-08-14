@@ -10,7 +10,7 @@ Machine learning algorithms find patterns and correlations within training data 
 
 To help alleviate this problem, it was proposed that a deep generative model would be used to generate synthetic network data (both benign and malicious). Synthetic data would then be augmented to an existing intrusion detection system dataset, specifically the CICIDS-2017 dataset. If the generated synthetic data was of similar quality to the existing dataset then an unlimited amount of data could be artificially generated and used to train seperate IDS models, removing concerns over lack of high quality training data. 
 
-### Description
+## Description
 
 To accomplish the objectives set out above, two seperate models were designed and implemented in Python making use of the machine learing library Keras. 
 
