@@ -1,2 +1,5 @@
 # Network-Data-Generation-VGAN
-A generative deep learning model based on GAN architecture was implemented to generate synthetic network data (benign and malicious) alike that within the CIC-IDS-2017 dataset. 
+
+As part of my 19496 honours project at The University of Strathclyde, a generative deep learning model based on Generative Adversarial Networks (GAN) architecture was designed. The implemented model aimed to generate synthetic network data, both benign and malicious, that was similar to that within the CIC-IDS-2017 dataset. 
+
+By Greig Fotheringham
